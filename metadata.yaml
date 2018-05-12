@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6523'
     url: http://www.gutenberg.org/2009/agents/6523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26061#The-Gold-Girl
 gutenberg_issued: '2008-07-15'
 gutenberg_type: Text
 identifiers:
