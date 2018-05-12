@@ -1,0 +1,28 @@
+_repo: The-Gold-Girl_26061
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hendryx, James B. (James Beardsley)
+    birthdate: 1880
+    deathdate: 1963
+    gutenberg_agent_id: '6523'
+    url: http://www.gutenberg.org/2009/agents/6523
+description: ''
+gutenberg_issued: '2008-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26061'
+  lccn: '20006633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: The Gold Girl
+url: http://www.gutenberg.org/ebooks/26061
